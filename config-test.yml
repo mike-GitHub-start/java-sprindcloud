@@ -1,1 +1,2 @@
-config:"cinfig-test"
+config:
+  info:"cinfig-test"
